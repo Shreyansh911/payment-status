@@ -1,3 +1,5 @@
 {
-  "PaymentStatus" : 0
+  "PaymentStatus" : 0,
+  "Title" : "Title"
+  "Subtext" : "Subtext"
 }
