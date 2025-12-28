@@ -1,5 +1,5 @@
 {
-  "PaymentStatus" : 1,
-  "Title" : "Try Again Later",
-  "Subtext" : "Something when wrong"
+  "PaymentStatus" : 0,
+  "Title" : "",
+  "Subtext" : ""
 }
